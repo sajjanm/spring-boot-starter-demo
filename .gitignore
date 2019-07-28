@@ -1,0 +1,8 @@
+*.class
+*.iml
+*.idea
+
+#targets folder
+/room-cleaner-consumer/target
+/room-clr-app/target
+/room-web-app/target
